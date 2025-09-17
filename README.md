@@ -4,6 +4,9 @@ O projeto foi criado como uma forma de praticar programação e desenvolver habi
 
 # Como Usar 🚀
 Adicione os nomes de todos os participantes no campo de texto e clique em "Adicionar".
+
 Quando todos os nomes estiverem na lista, use o botâo "Sortear amigo".
+
 A cada clique, o nome de quem for sorteado vai aparecer na tela.
+
 Clique em "Reiniciar" para começar uma nova rodada.
